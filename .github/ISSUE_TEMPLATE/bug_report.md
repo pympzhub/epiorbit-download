@@ -4,8 +4,9 @@ about: Descreve um problema encontrado no EpiOrbit
 labels: bug
 ---
 
-**Versão / Version:** 1.0.0
-**Windows:**
+**Plataforma / Platform:** Windows / Android
+**Versão / Version:** (ex.: 1.0.1 — Definições › Sobre / Settings › About)
+**Windows / Android (versão do sistema / OS version):**
 **Idioma / Language:**
 **Passos para reproduzir / Steps to reproduce:**
 1.

@@ -1,11 +1,11 @@
-# EpiOrbit 1.0
+# EpiOrbit
 
 **O teu universo de entretenimento — séries, anime e filmes num só lugar.**
 
 EpiOrbit é uma aplicação Windows para organizar listas de visualização, episódios vistos, novas temporadas e um calendário de estreias.
 
 - 🌐 **Página pública:** disponibilizada por GitHub Pages após o workflow de publicação.
-- 📦 **Instalador:** disponível no separador **Releases** deste repositório.
+- 📦 **Instalador:** disponível no separador **Releases** deste repositório (versão Windows atual: **1.0.1**). Histórico em [`CHANGELOG.md`](CHANGELOG.md).
 - 📖 **Como começar:** o primeiro arranque da aplicação explica como obter o token pessoal do TMDB.
 - ⚖️ **Créditos e privacidade:** consulta a página pública e os ficheiros em `docs/`.
 - 💬 **Sugestões para a 1.1:** usa o separador Issues, sem divulgar chaves nem dados pessoais.
@@ -17,14 +17,14 @@ Este repositório contém apenas **o site de apresentação e documentação pú
 - **OMDb:** opcional, conforme condições do fornecedor.
 
 
-# EpiOrbit 1.0
+# EpiOrbit
 
 **Your entertainment universe: series, anime and movies in one place.**
 
 EpiOrbit is a Windows application for organizing watchlists, watched episodes, new seasons and a calendar of upcoming releases.
 
 - 🌐 **Public page:** made available via GitHub Pages after the publishing workflow runs.
-- 📦 **Installer:** available in the **Releases** tab of this repository.
+- 📦 **Installer:** available in the **Releases** tab of this repository (current Windows version: **1.0.1**). History in [`CHANGELOG.md`](CHANGELOG.md).
 - 📖 **Getting started:** the app’s first launch explains how to get your personal TMDB token.
 - ⚖️ **Credits and privacy:** see the public page and the files in `docs/`.
 - 💬 **Suggestions for 1.1:** use the Issues tab, without sharing keys or personal data.
