@@ -4,6 +4,7 @@
 - **Local response cache** for TMDB, TVmaze and OMDb (memory and disk), kept across Windows restarts.
 - **System diagnostics** shows how many internet requests were made and how many were saved by the cache.
 - **Real "Start with Windows" state** in Settings: active, blocked by Windows, missing file or another copy.
+- **About panel** with the EpiOrbit logo and the official TMDB logo next to the attribution notice.
 
 ### Improvements
 - Each kind of data has its own lifetime (e.g. external IDs 30 days, providers 24 h, episode dates 6–12 h).

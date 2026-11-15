@@ -8,6 +8,7 @@ Windows e Android têm ciclos próprios. Tags: `v1.0.0` e `v1.0.1` (Windows, his
 - Cache local (memória + disco) das respostas TMDB, TVmaze e OMDb, com validade por tipo de dado.
 - Estatísticas de pedidos feitos/poupados no Diagnóstico do sistema.
 - Estado real do arranque com o Windows nas Definições.
+- Painel Sobre com o logótipo EpiOrbit e o logótipo oficial do TMDB (instalador atualizado em 15-11-2026, versão interna 1.0.1.1).
 ### Alterado
 - Pesquisa sem pedidos extra desnecessários; notificações reutilizam dados recentes que não são datas.
 - Limite de pedidos em paralelo e nova tentativa em HTTP 429.

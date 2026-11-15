@@ -4,6 +4,7 @@
 - **Cache local das respostas** do TMDB, TVmaze e OMDb (em memória e no disco), mantida entre reinícios do Windows.
 - **Diagnóstico do sistema** mostra quantos pedidos foram feitos à Internet e quantos foram poupados pela cache.
 - **Estado real do arranque com o Windows** nas Definições: ativo, bloqueado pelo Windows, ficheiro em falta ou outra cópia.
+- **Painel Sobre** com o logótipo EpiOrbit e o logótipo oficial do TMDB, junto do aviso de atribuição.
 
 ### Melhorias
 - Cada tipo de dado tem uma validade própria (ex.: IDs externos 30 dias, plataformas 24 h, datas de episódios 6–12 h).
